@@ -146,12 +146,10 @@ función llamada calcularSubsidio.
 ### Ejecucion de los programas
 - C++
   
- ![Ejercicio 1 ](https://drive.google.com/file/d/1qhoOT0-fBsQsN8MrIz209jwPUVoI--pU/view?usp=sharing).
+ ![Ejercicio 1 ](https://drive.google.com/file/d/1qhoOT0-fBsQsN8MrIz209jwPUVoI--pU/view).
  - python
   
- ![Ejercicio 1 ](https://drive.google.com/file/d/1HTS9MacZdKcpcE-SmsmjpQUG8h1ZqIl9/view?usp=sharing).
-
-
+ ![Ejercicio 1 ](https://drive.google.com/file/d/1BHtHK3lWJS58IHtc2_jTIkfueCwB9DQB/view).
 ------
 # Ejercicio 2: Vectores
 ###  escribir una aplicación que solicite al usuario un número que será la longitud de dos vectores que se deben llenar aleatoriamente, sume los valores e indique si ocurre cualquiera de los siguientes escenarios. 
@@ -259,11 +257,11 @@ c) vector B es menor a A
 ### Ejecucion de los programas
 - C++
   
- ![Ejercicio 2 en c++](https://drive.google.com/file/d/1HTS9MacZdKcpcE-SmsmjpQUG8h1ZqIl9/view?usp=sharing).
+ ![Ejercicio 2 en c++](https://drive.google.com/file/d/1HTS9MacZdKcpcE-SmsmjpQUG8h1ZqIl9/view).
 
  - python
   
- ![Ejercicio 2 en python](https://drive.google.com/file/d/15WHX6mPyM2u0DrCqnGLlgd5pPUFIt7SY/view?usp=drive_link).
+ ![Ejercicio 2 en python](https://drive.google.com/file/d/15WHX6mPyM2u0DrCqnGLlgd5pPUFIt7SY/view).
 
 
 ------
@@ -344,11 +342,11 @@ def main():
 ### Ejecucion de los programas
 - C++
   
- ![Ejercicio 3 en c++](https://drive.google.com/file/d/1XrOFBtCdmtfzqiNbZhiHUbYerxwtJetd/view?usp=drive_link).
+ ![Ejercicio 3 en c++](https://drive.google.com/file/d/1XrOFBtCdmtfzqiNbZhiHUbYerxwtJetd/view).
 
  - python
   
- ![Ejercicio 3 en python](https://drive.google.com/file/d/1IiiztFY9RCRG7n9lHZiLfNMIQV5xCqNo/view?usp=drive_link).
+ ![Ejercicio 3 en python](https://drive.google.com/file/d/1IiiztFY9RCRG7n9lHZiLfNMIQV5xCqNo/view).
 
 
 ------
@@ -417,11 +415,11 @@ def main():
 ### Ejecucion de los programas
 - C++
   
- ![Ejercicio 4 en c++](https://drive.google.com/file/d/1WC32ogDOjfQ05HjZT74PndwvPk6RiNds/view?usp=drive_link).
+ ![Ejercicio 4 en c++](https://drive.google.com/file/d/1WC32ogDOjfQ05HjZT74PndwvPk6RiNds/view).
 
  - python
   
- ![Ejercicio 4 en python](https://drive.google.com/file/d/1vCS_28kdWmvUMcEgX22r8rGOeSTkpPKT/view?usp=drive_link).
+ ![Ejercicio 4 en python](https://drive.google.com/file/d/1vCS_28kdWmvUMcEgX22r8rGOeSTkpPKT/view).
 
 
 ------
