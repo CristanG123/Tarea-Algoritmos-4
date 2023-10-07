@@ -146,10 +146,10 @@ función llamada calcularSubsidio.
 ### Ejecucion de los programas
 - C++
   
- ![Ejercicio 1 ](https://drive.google.com/file/d/1qhoOT0-fBsQsN8MrIz209jwPUVoI--pU/view?usp=drive_link)
+ ![Ejercicio 1 ](https://drive.google.com/file/d/1qhoOT0-fBsQsN8MrIz209jwPUVoI--pU/view?usp=sharing)
  - python
   
- ![Ejercicio 1 ](https://drive.google.com/file/d/1BHtHK3lWJS58IHtc2_jTIkfueCwB9DQB/view?usp=drive_link)
+ ![Ejercicio 1 ](https://drive.google.com/file/d/1HTS9MacZdKcpcE-SmsmjpQUG8h1ZqIl9/view?usp=sharing)
 
 
 ------
@@ -259,7 +259,7 @@ c) vector B es menor a A
 ### Ejecucion de los programas
 - C++
   
- ![Ejercicio 1 ](https://drive.google.com/file/d/1HTS9MacZdKcpcE-SmsmjpQUG8h1ZqIl9/view?usp=drive_link)
+ ![Ejercicio 1 ]()
 
  - python
   
