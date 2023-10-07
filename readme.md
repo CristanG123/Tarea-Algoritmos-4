@@ -259,11 +259,11 @@ c) vector B es menor a A
 ### Ejecucion de los programas
 - C++
   
- ![Ejercicio 1 ]()
+ ![Ejercicio 2 en c++]()
 
  - python
   
- ![Ejercicio 1 ](https://drive.google.com/file/d/15WHX6mPyM2u0DrCqnGLlgd5pPUFIt7SY/view?usp=drive_link)
+ ![Ejercicio 2 en python](https://drive.google.com/file/d/15WHX6mPyM2u0DrCqnGLlgd5pPUFIt7SY/view?usp=drive_link)
 
 
 ------
@@ -344,11 +344,11 @@ def main():
 ### Ejecucion de los programas
 - C++
   
- ![Ejercicio 1 ](https://drive.google.com/file/d/1XrOFBtCdmtfzqiNbZhiHUbYerxwtJetd/view?usp=drive_link)
+ ![Ejercicio 3 en c++](https://drive.google.com/file/d/1XrOFBtCdmtfzqiNbZhiHUbYerxwtJetd/view?usp=drive_link)
 
  - python
   
- ![Ejercicio 1 ](https://drive.google.com/file/d/1IiiztFY9RCRG7n9lHZiLfNMIQV5xCqNo/view?usp=drive_link)
+ ![Ejercicio 3 en python](https://drive.google.com/file/d/1IiiztFY9RCRG7n9lHZiLfNMIQV5xCqNo/view?usp=drive_link)
 
 
 ------
@@ -417,11 +417,11 @@ def main():
 ### Ejecucion de los programas
 - C++
   
- ![Ejercicio 1 ](https://drive.google.com/file/d/1WC32ogDOjfQ05HjZT74PndwvPk6RiNds/view?usp=drive_link)
+ ![Ejercicio 4 en c++](https://drive.google.com/file/d/1WC32ogDOjfQ05HjZT74PndwvPk6RiNds/view?usp=drive_link)
 
  - python
   
- ![Ejercicio 1 ](https://drive.google.com/file/d/1vCS_28kdWmvUMcEgX22r8rGOeSTkpPKT/view?usp=drive_link)
+ ![Ejercicio 4 en python](https://drive.google.com/file/d/1vCS_28kdWmvUMcEgX22r8rGOeSTkpPKT/view?usp=drive_link)
 
 
 ------
